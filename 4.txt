@@ -1,0 +1,46 @@
+Quando os veículos se cruzarem, ambos estarão a mesma distância da cidade de Ribeirão Preto.
+Independente de onde esses veículos se encontrarem, vão estar na mesma distância tanto da cidade de Franca quanto de Ribeirão Preto.
+Isso ocorre porque a distância é definida como sendo a medida de um ponto A a um ponto B
+
+Para tirar a prova disso, farei o seguinte cálculo:
+
+Distância = 100km
+velocidade do carro = 110km/h
+velocidade do caminhão = 80km/h
+
+2 pedágios para o caminhão - 5 minutos em cada = 10 minutos de atraso
+
+em 30 minutos de viagem:
+
+o carro percorreu 55km
+o caminhão percorreu aproximadamente 26.6km (descontando os 10 minutos dos dois pedágios)
+
+A distância entre os veículos é de 100km - 81.6km = 18.4km
+
+Essa é uma equação que define o tempo necessário para que os dois veículos se cruzem dada a distância de 18.4km
+
+110 * t + 80 * t = 18.4
+110t + 80t = 18.4
+190t = 18.4
+t = 18.4 / 190
+t = 0.0968421052631579 (irei arredondar o valor para 0.1)
+
+carro:
+110km - 1 hora
+  x   - 0.1 ou 10%
+10% de 110km = 11km
+portanto, x = 11km
+
+caminhão:
+80km - 1 hora
+  x  - 0.1 ou 10%
+10% de 80km = 8km
+portanto, x = 8km
+
+somando as distâncias percorridas aos respectivos veículos, tem-se:
+
+carro: 55km + 11km = 66km
+caminhão: 26.6km + 8km = 34.6km
+
+somando a distância percorrida pelos dois veículos, tem-se aproximadamente 100km
+ou seja, a distância que o carro percorreu de Ribeirão Preto, é a mesma distância que falta para o caminhão chegar até lá.
